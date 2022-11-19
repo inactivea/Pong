@@ -1,3 +1,4 @@
 # Pong
 cs50 pong basic ai
-pits you against an ai which will always follow the ball. ball cannot reach a velocity exceeding the movement speed of the ai bat so scoring is impossible.
+# What Does It Do?
+This recreation of Pong pits you, the player, against an AI-controlled paddle. The ball cannot reach a velocity exceeding the movement speed of the AI paddle and, as a result of this, scoring is impossible.
